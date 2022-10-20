@@ -1,0 +1,12 @@
+movies = [
+    {
+        "id": 1,
+        "title": "Terminator",
+        "year": 198
+    },
+    {
+        "id": 2,
+        "title": "kindergarten cop",
+        "year": 1993
+    }
+]

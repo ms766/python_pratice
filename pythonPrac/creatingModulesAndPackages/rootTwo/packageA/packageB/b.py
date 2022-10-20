@@ -1,0 +1,4 @@
+
+
+def functionB():
+    print("B")
